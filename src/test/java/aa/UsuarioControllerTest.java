@@ -1,4 +1,4 @@
-package br.com.usuario;
+package aa;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
